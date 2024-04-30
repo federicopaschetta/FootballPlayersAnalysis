@@ -1,0 +1,506 @@
+Player,Role,Team,Birth,Value
+Manuel Neuer ,Goalkeeper,Bayern Munich,"Mar 27, 1986",€5.00m
+Daniel Peretz,Goalkeeper,Bayern Munich,"Jul 10, 2000",€4.00m
+Sven Ulreich,Goalkeeper,Bayern Munich,"Aug 3, 1988",€700k
+Tom Hülsmann,Goalkeeper,Bayern Munich,"Apr 11, 2004",€250k
+Matthijs de Ligt,Centre-Back,Bayern Munich,"Aug 12, 1999",€65.00m
+Min-jae Kim,Centre-Back,Bayern Munich,"Nov 15, 1996",€55.00m
+Dayot Upamecano,Centre-Back,Bayern Munich,"Oct 27, 1998",€50.00m
+Eric Dier,Centre-Back,Bayern Munich,"Jan 15, 1994",€12.00m
+Tarek Buchmann ,Centre-Back,Bayern Munich,"Feb 28, 2005",€500k
+Alphonso Davies,Left-Back,Bayern Munich,"Nov 2, 2000",€60.00m
+Raphaël Guerreiro,Left-Back,Bayern Munich,"Dec 22, 1993",€15.00m
+Joshua Kimmich,Right-Back,Bayern Munich,"Feb 8, 1995",€60.00m
+Noussair Mazraoui,Right-Back,Bayern Munich,"Nov 14, 1997",€30.00m
+Sacha Boey ,Right-Back,Bayern Munich,"Sep 13, 2000",€22.00m
+Bouna Sarr ,Right-Back,Bayern Munich,"Jan 31, 1992",€2.00m
+Aleksandar Pavlovic,Defensive Midfield,Bayern Munich,"May 3, 2004",€25.00m
+Leon Goretzka,Central Midfield,Bayern Munich,"Feb 6, 1995",€30.00m
+Konrad Laimer,Central Midfield,Bayern Munich,"May 27, 1997",€28.00m
+Jamal Musiala,Attacking Midfield,Bayern Munich,"Feb 26, 2003",€110.00m
+Kingsley Coman ,Left Winger,Bayern Munich,"Jun 13, 1996",€65.00m
+Mathys Tel,Left Winger,Bayern Munich,"Apr 27, 2005",€40.00m
+Bryan Zaragoza,Left Winger,Bayern Munich,"Sep 9, 2001",€12.00m
+Leroy Sané ,Right Winger,Bayern Munich,"Jan 11, 1996",€70.00m
+Serge Gnabry ,Right Winger,Bayern Munich,"Jul 14, 1995",€45.00m
+Thomas Müller,Second Striker,Bayern Munich,"Sep 13, 1989",€10.00m
+Harry Kane,Centre-Forward,Bayern Munich,"Jul 28, 1993",€110.00m
+Eric-Maxim Choupo-Moting,Centre-Forward,Bayern Munich,"Mar 23, 1989",€3.00m
+Matej Kovar,Goalkeeper,Bayer 04 Leverkusen,"May 17, 2000",€5.00m
+Lukas Hradecky ,Goalkeeper,Bayer 04 Leverkusen,"Nov 24, 1989",€2.50m
+Niklas Lomb,Goalkeeper,Bayer 04 Leverkusen,"Jul 28, 1993",€250k
+Edmond Tapsoba,Centre-Back,Bayer 04 Leverkusen,"Feb 2, 1999",€40.00m
+Piero Hincapié,Centre-Back,Bayer 04 Leverkusen,"Jan 9, 2002",€35.00m
+Odilon Kossounou,Centre-Back,Bayer 04 Leverkusen,"Jan 4, 2001",€35.00m
+Jonathan Tah,Centre-Back,Bayer 04 Leverkusen,"Feb 11, 1996",€30.00m
+Josip Stanisic,Centre-Back,Bayer 04 Leverkusen,"Apr 2, 2000",€18.00m
+Madi Monamay,Centre-Back,Bayer 04 Leverkusen,"Apr 6, 2006",-
+Alejandro Grimaldo,Left-Back,Bayer 04 Leverkusen,"Sep 20, 1995",€45.00m
+Arthur,Right-Back,Bayer 04 Leverkusen,"Mar 17, 2003",€5.00m
+Timothy Fosu-Mensah,Right-Back,Bayer 04 Leverkusen,"Jan 2, 1998",€1.50m
+Granit Xhaka ,Defensive Midfield,Bayer 04 Leverkusen,"Sep 27, 1992",€20.00m
+Robert Andrich,Defensive Midfield,Bayer 04 Leverkusen,"Sep 22, 1994",€11.00m
+Noah Mbamba ,Defensive Midfield,Bayer 04 Leverkusen,"Jan 5, 2005",€3.00m
+Exequiel Palacios,Central Midfield,Bayer 04 Leverkusen,"Oct 5, 1998",€40.00m
+Gustavo Puerta,Central Midfield,Bayer 04 Leverkusen,"Jul 23, 2003",€2.00m
+Jeremie Frimpong,Right Midfield,Bayer 04 Leverkusen,"Dec 10, 2000",€50.00m
+Florian Wirtz,Attacking Midfield,Bayer 04 Leverkusen,"May 3, 2003",€110.00m
+Jonas Hofmann,Attacking Midfield,Bayer 04 Leverkusen,"Jul 14, 1992",€13.00m
+Ayman Aourir,Attacking Midfield,Bayer 04 Leverkusen,"Oct 6, 2004",€300k
+Amine Adli,Left Winger,Bayer 04 Leverkusen,"May 10, 2000",€25.00m
+Nathan Tella,Right Winger,Bayer 04 Leverkusen,"Jul 5, 1999",€23.00m
+Victor Boniface,Centre-Forward,Bayer 04 Leverkusen,"Dec 23, 2000",€40.00m
+Patrik Schick,Centre-Forward,Bayer 04 Leverkusen,"Jan 24, 1996",€22.00m
+Adam Hlozek ,Centre-Forward,Bayer 04 Leverkusen,"Jul 25, 2002",€12.00m
+Borja Iglesias ,Centre-Forward,Bayer 04 Leverkusen,"Jan 17, 1993",€6.00m
+Péter Gulácsi,Goalkeeper,RB Leipzig,"May 6, 1990",€3.50m
+Janis Blaswich,Goalkeeper,RB Leipzig,"May 2, 1991",€3.00m
+Timo Schlieck,Goalkeeper,RB Leipzig,"Mar 2, 2006",€500k
+Leopold Zingerle,Goalkeeper,RB Leipzig,"Apr 10, 1994",€400k
+Castello Lukeba,Centre-Back,RB Leipzig,"Dec 17, 2002",€40.00m
+Mohamed Simakan,Centre-Back,RB Leipzig,"May 3, 2000",€35.00m
+El Chadaille Bitshiabu,Centre-Back,RB Leipzig,"May 16, 2005",€12.00m
+Willi Orbán ,Centre-Back,RB Leipzig,"Nov 3, 1992",€10.00m
+Lukas Klostermann,Centre-Back,RB Leipzig,"Jun 3, 1996",€8.00m
+Tim Köhler,Centre-Back,RB Leipzig,"May 2, 2005",-
+David Raum,Left-Back,RB Leipzig,"Apr 22, 1998",€17.00m
+Christopher Lenz,Left-Back,RB Leipzig,"Sep 22, 1994",€2.00m
+Benjamin Henrichs,Right-Back,RB Leipzig,"Feb 23, 1997",€20.00m
+Xaver Schlager,Central Midfield,RB Leipzig,"Sep 28, 1997",€28.00m
+Amadou Haidara,Central Midfield,RB Leipzig,"Jan 31, 1998",€17.00m
+Nicolas Seiwald,Central Midfield,RB Leipzig,"May 4, 2001",€16.00m
+Kevin Kampl,Central Midfield,RB Leipzig,"Oct 9, 1990",€3.50m
+Xavi Simons,Attacking Midfield,RB Leipzig,"Apr 21, 2003",€80.00m
+Dani Olmo,Attacking Midfield,RB Leipzig,"May 7, 1998",€50.00m
+Eljif Elmas,Attacking Midfield,RB Leipzig,"Sep 24, 1999",€24.00m
+Christoph Baumgartner,Attacking Midfield,RB Leipzig,"Aug 1, 1999",€20.00m
+Loïs Openda,Centre-Forward,RB Leipzig,"Feb 16, 2000",€60.00m
+Benjamin Sesko,Centre-Forward,RB Leipzig,"May 31, 2003",€40.00m
+Yussuf Poulsen  ,Centre-Forward,RB Leipzig,"Jun 15, 1994",€7.00m
+Gregor Kobel,Goalkeeper,Borussia Dortmund,"Dec 6, 1997",€40.00m
+Marcel Lotka,Goalkeeper,Borussia Dortmund,"May 25, 2001",€1.30m
+Alexander Meyer,Goalkeeper,Borussia Dortmund,"Apr 13, 1991",€800k
+Nico Schlotterbeck,Centre-Back,Borussia Dortmund,"Dec 1, 1999",€30.00m
+Niklas Süle,Centre-Back,Borussia Dortmund,"Sep 3, 1995",€22.00m
+Mats Hummels,Centre-Back,Borussia Dortmund,"Dec 16, 1988",€6.00m
+Antonios Papadopoulos,Centre-Back,Borussia Dortmund,"Sep 10, 1999",€800k
+Ian Maatsen ,Left-Back,Borussia Dortmund,"Mar 10, 2002",€30.00m
+Ramy Bensebaini ,Left-Back,Borussia Dortmund,"Apr 16, 1995",€9.00m
+Julian Ryerson,Right-Back,Borussia Dortmund,"Nov 17, 1997",€15.00m
+Marius Wolf,Right-Back,Borussia Dortmund,"May 27, 1995",€5.00m
+Mateu Morey,Right-Back,Borussia Dortmund,"Mar 2, 2000",€800k
+Salih Özcan,Defensive Midfield,Borussia Dortmund,"Jan 11, 1998",€13.00m
+Emre Can  ,Defensive Midfield,Borussia Dortmund,"Jan 12, 1994",€12.00m
+Abdoulaye Kamara ,Defensive Midfield,Borussia Dortmund,"Nov 6, 2004",€1.50m
+Felix Nmecha,Central Midfield,Borussia Dortmund,"Oct 10, 2000",€25.00m
+Marcel Sabitzer,Central Midfield,Borussia Dortmund,"Mar 17, 1994",€20.00m
+Ole Pohlmann,Central Midfield,Borussia Dortmund,"Apr 5, 2001",€1.00m
+Julian Brandt,Attacking Midfield,Borussia Dortmund,"May 2, 1996",€40.00m
+Marco Reus,Attacking Midfield,Borussia Dortmund,"May 31, 1989",€7.00m
+Karim Adeyemi,Left Winger,Borussia Dortmund,"Jan 18, 2002",€28.00m
+Jamie Bynoe-Gittens,Left Winger,Borussia Dortmund,"Aug 8, 2004",€28.00m
+Jadon Sancho,Left Winger,Borussia Dortmund,"Mar 25, 2000",€25.00m
+Donyell Malen ,Right Winger,Borussia Dortmund,"Jan 19, 1999",€40.00m
+Julien Duranville,Right Winger,Borussia Dortmund,"May 5, 2006",€8.50m
+Youssoufa Moukoko,Centre-Forward,Borussia Dortmund,"Nov 20, 2004",€25.00m
+Niclas Füllkrug,Centre-Forward,Borussia Dortmund,"Feb 9, 1993",€15.00m
+Sébastien Haller ,Centre-Forward,Borussia Dortmund,"Jun 22, 1994",€14.00m
+Alexander Nübel,Goalkeeper,VfB Stuttgart,"Sep 30, 1996",€10.00m
+Fabian Bredlow,Goalkeeper,VfB Stuttgart,"Mar 2, 1995",€1.00m
+Dennis Seimen,Goalkeeper,VfB Stuttgart,"Dec 1, 2005",€1.00m
+Florian Schock,Goalkeeper,VfB Stuttgart,"May 22, 2001",€200k
+Hiroki Ito,Centre-Back,VfB Stuttgart,"May 12, 1999",€25.00m
+Waldemar Anton ,Centre-Back,VfB Stuttgart,"Jul 20, 1996",€18.00m
+Dan-Axel Zagadou ,Centre-Back,VfB Stuttgart,"Jun 3, 1999",€10.00m
+Anthony Rouault,Centre-Back,VfB Stuttgart,"May 29, 2001",€7.00m
+Leonidas Stergiou,Centre-Back,VfB Stuttgart,"Mar 3, 2002",€2.00m
+Maximilian Mittelstädt,Left-Back,VfB Stuttgart,"Mar 18, 1997",€14.00m
+Josha Vagnoman ,Right-Back,VfB Stuttgart,"Dec 11, 2000",€10.00m
+Pascal Stenzel,Right-Back,VfB Stuttgart,"Mar 20, 1996",€2.50m
+Angelo Stiller ,Defensive Midfield,VfB Stuttgart,"Apr 4, 2001",€18.00m
+Atakan Karazor,Defensive Midfield,VfB Stuttgart,"Oct 13, 1996",€10.00m
+Mahmoud Dahoud,Central Midfield,VfB Stuttgart,"Jan 1, 1996",€8.00m
+Nikolas Nartey ,Central Midfield,VfB Stuttgart,"Feb 22, 2000",€800k
+Roberto Massimo,Right Midfield,VfB Stuttgart,"Oct 12, 2000",€1.00m
+Enzo Millot,Attacking Midfield,VfB Stuttgart,"Jul 17, 2002",€30.00m
+Woo-yeong Jeong,Attacking Midfield,VfB Stuttgart,"Sep 20, 1999",€3.50m
+Lilian Egloff,Attacking Midfield,VfB Stuttgart,"Aug 20, 2002",€1.20m
+Genki Haraguchi,Attacking Midfield,VfB Stuttgart,"May 9, 1991",€700k
+Laurin Ulrich,Attacking Midfield,VfB Stuttgart,"Jan 31, 2005",€500k
+Chris Führich,Left Winger,VfB Stuttgart,"Jan 9, 1998",€25.00m
+Silas,Right Winger,VfB Stuttgart,"Oct 6, 1998",€10.00m
+Jamie Leweling,Right Winger,VfB Stuttgart,"Feb 26, 2001",€6.00m
+Luca Raimund,Right Winger,VfB Stuttgart,"Apr 9, 2005",€500k
+Serhou Guirassy,Centre-Forward,VfB Stuttgart,"Mar 12, 1996",€40.00m
+Deniz Undav,Centre-Forward,VfB Stuttgart,"Jul 19, 1996",€22.00m
+Kevin Trapp,Goalkeeper,Eintracht Frankfurt,"Jul 8, 1990",€5.00m
+Kauã Santos,Goalkeeper,Eintracht Frankfurt,"Apr 11, 2003",€1.50m
+Jens Grahl,Goalkeeper,Eintracht Frankfurt,"Sep 22, 1988",€200k
+Simon Simoni,Goalkeeper,Eintracht Frankfurt,"Jul 14, 2004",€200k
+Willian Pacho,Centre-Back,Eintracht Frankfurt,"Oct 16, 2001",€30.00m
+Robin Koch,Centre-Back,Eintracht Frankfurt,"Jul 17, 1996",€18.00m
+Tuta,Centre-Back,Eintracht Frankfurt,"Jul 4, 1999",€12.00m
+Hrvoje Smolcic,Centre-Back,Eintracht Frankfurt,"Aug 17, 2000",€4.00m
+Nnamdi Collins,Centre-Back,Eintracht Frankfurt,"Jan 10, 2004",€750k
+Makoto Hasebe,Centre-Back,Eintracht Frankfurt,"Jan 18, 1984",€500k
+Dario Gebuhr,Centre-Back,Eintracht Frankfurt,"May 6, 2003",€400k
+Davis Bautista,Centre-Back,Eintracht Frankfurt,"Feb 16, 2005",€250k
+Niels Nkounkou,Left-Back,Eintracht Frankfurt,"Nov 1, 2000",€7.50m
+Philipp Max,Left-Back,Eintracht Frankfurt,"Sep 30, 1993",€2.00m
+Aurélio Buta,Right-Back,Eintracht Frankfurt,"Feb 10, 1997",€6.00m
+Elias Baum,Right-Back,Eintracht Frankfurt,"Oct 26, 2005",€1.00m
+Timothy Chandler,Right-Back,Eintracht Frankfurt,"Mar 29, 1990",€500k
+Ellyes Skhiri,Defensive Midfield,Eintracht Frankfurt,"May 10, 1995",€13.00m
+Hugo Larsson,Central Midfield,Eintracht Frankfurt,"Jun 27, 2004",€28.00m
+Junior Dina Ebimbe,Central Midfield,Eintracht Frankfurt,"Nov 21, 2000",€14.00m
+Donny van de Beek,Central Midfield,Eintracht Frankfurt,"Apr 18, 1997",€7.00m
+Sebastian Rode  ,Central Midfield,Eintracht Frankfurt,"Oct 11, 1990",€1.00m
+Sidney Raebiger,Central Midfield,Eintracht Frankfurt,"Apr 17, 2005",€750k
+Mehdi Loune ,Central Midfield,Eintracht Frankfurt,"May 14, 2004",€300k
+Harpreet Ghotra,Central Midfield,Eintracht Frankfurt,"Jan 17, 2003",€100k
+Farès Chaïbi,Attacking Midfield,Eintracht Frankfurt,"Nov 28, 2002",€18.00m
+Mario Götze,Attacking Midfield,Eintracht Frankfurt,"Jun 3, 1992",€7.00m
+Marko Mladenovic,Attacking Midfield,Eintracht Frankfurt,"Jan 30, 2005",-
+Jean-Mattéo Bahoya,Left Winger,Eintracht Frankfurt,"May 7, 2005",€7.50m
+Ansgar Knauff,Right Winger,Eintracht Frankfurt,"Jan 10, 2002",€10.00m
+Omar Marmoush,Centre-Forward,Eintracht Frankfurt,"Feb 7, 1999",€22.00m
+Hugo Ekitiké,Centre-Forward,Eintracht Frankfurt,"Jun 20, 2002",€15.00m
+Sasa Kalajdzic ,Centre-Forward,Eintracht Frankfurt,"Jul 7, 1997",€5.00m
+Nacho Ferri,Centre-Forward,Eintracht Frankfurt,"Oct 5, 2004",€2.00m
+Noel Futkeu ,Centre-Forward,Eintracht Frankfurt,"Dec 6, 2002",€400k
+Oliver Baumann ,Goalkeeper,TSG 1899 Hoffenheim,"Jun 2, 1990",€4.00m
+Luca Philipp,Goalkeeper,TSG 1899 Hoffenheim,"Nov 28, 2000",€300k
+Nahuel Noll,Goalkeeper,TSG 1899 Hoffenheim,"Mar 17, 2003",€250k
+Ozan Kabak,Centre-Back,TSG 1899 Hoffenheim,"Mar 25, 2000",€10.00m
+Kevin Akpoguma,Centre-Back,TSG 1899 Hoffenheim,"Apr 19, 1995",€3.50m
+Stanley Nsoki ,Centre-Back,TSG 1899 Hoffenheim,"Apr 9, 1999",€3.00m
+John Brooks,Centre-Back,TSG 1899 Hoffenheim,"Jan 28, 1993",€2.00m
+Kasim Adams,Centre-Back,TSG 1899 Hoffenheim,"Jun 22, 1995",€700k
+Tim Drexler,Centre-Back,TSG 1899 Hoffenheim,"Mar 6, 2005",€400k
+David Jurásek,Left-Back,TSG 1899 Hoffenheim,"Aug 7, 2000",€8.00m
+Marco John ,Left-Back,TSG 1899 Hoffenheim,"Apr 2, 2002",€2.00m
+Pavel Kaderabek,Right-Back,TSG 1899 Hoffenheim,"Apr 25, 1992",€3.00m
+Florian Grillitsch,Defensive Midfield,TSG 1899 Hoffenheim,"Aug 7, 1995",€6.50m
+Anton Stach,Central Midfield,TSG 1899 Hoffenheim,"Nov 15, 1998",€15.00m
+Grischa Prömel,Central Midfield,TSG 1899 Hoffenheim,"Jan 9, 1995",€7.00m
+Umut Tohumcu,Central Midfield,TSG 1899 Hoffenheim,"Aug 11, 2004",€5.00m
+Dennis Geiger,Central Midfield,TSG 1899 Hoffenheim,"Jun 10, 1998",€4.00m
+Finn Ole Becker,Central Midfield,TSG 1899 Hoffenheim,"Jun 8, 2000",€3.00m
+Robert Skov,Left Midfield,TSG 1899 Hoffenheim,"May 20, 1996",€6.50m
+Tom Bischof,Attacking Midfield,TSG 1899 Hoffenheim,"Jun 28, 2005",€3.50m
+Marius Bülter,Left Winger,TSG 1899 Hoffenheim,"Mar 29, 1993",€3.00m
+Bambasé Conté ,Left Winger,TSG 1899 Hoffenheim,"Jul 7, 2003",€700k
+Maximilian Beier,Centre-Forward,TSG 1899 Hoffenheim,"Oct 17, 2002",€24.00m
+Mergim Berisha ,Centre-Forward,TSG 1899 Hoffenheim,"May 11, 1998",€12.00m
+Wout Weghorst,Centre-Forward,TSG 1899 Hoffenheim,"Aug 7, 1992",€7.00m
+Andrej Kramaric,Centre-Forward,TSG 1899 Hoffenheim,"Jun 19, 1991",€6.00m
+Ihlas Bebou,Centre-Forward,TSG 1899 Hoffenheim,"Apr 23, 1994",€4.00m
+Max Moerstedt,Centre-Forward,TSG 1899 Hoffenheim,"Jan 15, 2006",-
+Finn Dahmen,Goalkeeper,FC Augsburg,"Mar 27, 1998",€5.00m
+Tomas Koubek,Goalkeeper,FC Augsburg,"Aug 26, 1992",€800k
+Marcel Lubik,Goalkeeper,FC Augsburg,"May 19, 2004",€250k
+Felix Uduokhai,Centre-Back,FC Augsburg,"Sep 9, 1997",€7.00m
+Maximilian Bauer,Centre-Back,FC Augsburg,"Feb 9, 2000",€3.50m
+Jeffrey Gouweleeuw,Centre-Back,FC Augsburg,"Jul 10, 1991",€3.00m
+Patric Pfeiffer,Centre-Back,FC Augsburg,"Aug 20, 1999",€2.50m
+Reece Oxford ,Centre-Back,FC Augsburg,"Dec 16, 1998",€2.00m
+Iago,Left-Back,FC Augsburg,"Mar 23, 1997",€5.50m
+Mads Pedersen,Left-Back,FC Augsburg,"Sep 1, 1996",€2.50m
+Kevin Mbabu,Right-Back,FC Augsburg,"Apr 19, 1995",€3.50m
+Robert Gumny ,Right-Back,FC Augsburg,"Jun 4, 1998",€2.50m
+Raphael Framberger ,Right-Back,FC Augsburg,"Sep 6, 1995",€600k
+Kristijan Jakic,Defensive Midfield,FC Augsburg,"May 14, 1997",€5.50m
+Niklas Dorsch ,Defensive Midfield,FC Augsburg,"Jan 15, 1998",€5.00m
+Tim Breithaupt,Defensive Midfield,FC Augsburg,"Feb 7, 2002",€3.00m
+Arne Engels,Central Midfield,FC Augsburg,"Sep 8, 2003",€7.50m
+Arne Maier,Central Midfield,FC Augsburg,"Jan 8, 1999",€4.50m
+Elvis Rexhbecaj ,Central Midfield,FC Augsburg,"Nov 1, 1997",€3.50m
+Pep Biel,Attacking Midfield,FC Augsburg,"Sep 5, 1996",€5.00m
+Fredrik Jensen ,Attacking Midfield,FC Augsburg,"Sep 9, 1997",€3.50m
+Mert Kömür,Attacking Midfield,FC Augsburg,"Jul 17, 2005",€1.00m  
+Rubén Vargas,Right Winger,FC Augsburg,"Aug 5, 1998",€6.50m
+Ermedin Demirovic ,Centre-Forward,FC Augsburg,"Mar 25, 1998",€28.00m
+Dion Beljo,Centre-Forward,FC Augsburg,"Mar 1, 2002",€5.00m
+Phillip Tietz,Centre-Forward,FC Augsburg,"Jul 9, 1997",€5.00m
+Sven Michel,Centre-Forward,FC Augsburg,"Jul 15, 1990",€900k
+Robin Zentner,Goalkeeper,1.FSV Mainz 05,"Oct 28, 1994",€3.50m
+Daniel Batz,Goalkeeper,1.FSV Mainz 05,"Jan 12, 1991",€350k
+Lasse Rieß,Goalkeeper,1.FSV Mainz 05,"Jul 27, 2001",€200k
+Andreas Hanche-Olsen,Centre-Back,1.FSV Mainz 05,"Jan 17, 1997",€7.50m
+Sepp van den Berg,Centre-Back,1.FSV Mainz 05,"Dec 20, 2001",€7.00m
+Edimilson Fernandes,Centre-Back,1.FSV Mainz 05,"Apr 15, 1996",€4.50m
+Maxim Leitsch,Centre-Back,1.FSV Mainz 05,"May 18, 1998",€1.50m
+Stefan Bell ,Centre-Back,1.FSV Mainz 05,"Aug 24, 1991",€1.00m
+Anthony Caci,Left-Back,1.FSV Mainz 05,"Jul 1, 1997",€7.00m
+Silvan Widmer ,Right-Back,1.FSV Mainz 05,"Mar 5, 1993",€3.50m
+Phillipp Mwene,Right-Back,1.FSV Mainz 05,"Jan 29, 1994",€1.50m
+Danny da Costa,Right-Back,1.FSV Mainz 05,"Jul 13, 1993",€1.50m
+Dominik Kohr,Defensive Midfield,1.FSV Mainz 05,"Jan 31, 1994",€3.50m
+Josuha Guilavogui,Defensive Midfield,1.FSV Mainz 05,"Sep 19, 1990",€1.00m
+Leandro Barreiro,Central Midfield,1.FSV Mainz 05,"Jan 3, 2000",€14.00m
+Tom Krauß ,Central Midfield,1.FSV Mainz 05,"Jun 22, 2001",€5.50m
+Nadiem Amiri,Central Midfield,1.FSV Mainz 05,"Oct 27, 1996",€4.00m
+Merveille Papela,Central Midfield,1.FSV Mainz 05,"Jan 18, 2001",€1.00m
+Jae-sung Lee ,Attacking Midfield,1.FSV Mainz 05,"Aug 10, 1992",€3.00m
+Marco Richter,Attacking Midfield,1.FSV Mainz 05,"Nov 24, 1997",€2.50m
+Brajan Gruda,Right Winger,1.FSV Mainz 05,"May 31, 2004",€9.00m
+David Mamutovic,Right Winger,1.FSV Mainz 05,"Dec 5, 2000",€300k
+Jonathan Burkardt,Centre-Forward,1.FSV Mainz 05,"Jul 11, 2000",€7.00m
+Nelson Weiper,Centre-Forward,1.FSV Mainz 05,"Mar 17, 2005",€5.00m
+Ludovic Ajorque,Centre-Forward,1.FSV Mainz 05,"Feb 25, 1994",€4.00m
+Karim Onisiwo,Centre-Forward,1.FSV Mainz 05,"Mar 17, 1992",€2.00m
+Jessic Ngankam ,Centre-Forward,1.FSV Mainz 05,"Jul 20, 2000",€2.00m
+Michael Zetterer,Goalkeeper,SV Werder Bremen,"Jul 12, 1995",€2.50m
+Jiri Pavlenka ,Goalkeeper,SV Werder Bremen,"Apr 14, 1992",€1.50m
+Dudu,Goalkeeper,SV Werder Bremen,"Feb 10, 1999",€200k
+Marco Friedl ,Centre-Back,SV Werder Bremen,"Mar 16, 1998",€6.50m
+Niklas Stark,Centre-Back,SV Werder Bremen,"Apr 14, 1995",€5.50m
+Amos Pieper  ,Centre-Back,SV Werder Bremen,"Jan 17, 1998",€5.00m
+Milos Veljkovic,Centre-Back,SV Werder Bremen,"Sep 26, 1995",€4.50m
+Julián Malatini,Centre-Back,SV Werder Bremen,"May 31, 2001",€2.50m
+Anthony Jung,Centre-Back,SV Werder Bremen,"Nov 3, 1991",€1.00m
+Mitchell Weiser,Right-Back,SV Werder Bremen,"Apr 21, 1994",€6.00m
+Felix Agu,Right-Back,SV Werder Bremen,"Sep 27, 1999",€2.50m
+Senne Lynen,Defensive Midfield,SV Werder Bremen,"Feb 19, 1999",€5.00m
+Christian Groß,Defensive Midfield,SV Werder Bremen,"Feb 8, 1989",€300k
+Jens Stage ,Central Midfield,SV Werder Bremen,"Nov 8, 1996",€7.50m
+Naby Keïta ,Central Midfield,SV Werder Bremen,"Feb 10, 1995",€4.00m
+Skelly Alvero ,Central Midfield,SV Werder Bremen,"May 4, 2002",€4.00m
+Olivier Deman,Left Midfield,SV Werder Bremen,"Apr 6, 2000",€6.00m
+Leon Opitz,Left Midfield,SV Werder Bremen,"Apr 11, 2005",€600k
+Romano Schmid,Attacking Midfield,SV Werder Bremen,"Jan 27, 2000",€6.50m
+Leonardo Bittencourt,Attacking Midfield,SV Werder Bremen,"Dec 19, 1993",€2.50m
+Isak Hansen-Aarøen ,Attacking Midfield,SV Werder Bremen,"Aug 22, 2004",€1.50m
+Justin Njinmah ,Right Winger,SV Werder Bremen,"Nov 15, 2000",€9.00m
+Nick Woltemade,Second Striker,SV Werder Bremen,"Feb 14, 2002",€2.00m
+Marvin Ducksch,Centre-Forward,SV Werder Bremen,"Mar 7, 1994",€9.00m
+Dawid Kownacki,Centre-Forward,SV Werder Bremen,"Mar 14, 1997",€2.00m
+Marvin Schwäbe,Goalkeeper,1.FC KÃ¶ln,"Apr 25, 1995",€5.50m
+Philipp Pentke,Goalkeeper,1.FC KÃ¶ln,"May 1, 1985",€300k
+Jonas Nickisch,Goalkeeper,1.FC KÃ¶ln,"May 21, 2004",€200k
+Matthias Köbbing,Goalkeeper,1.FC KÃ¶ln,"May 28, 1997",€100k
+Jeff Chabot,Centre-Back,1.FC KÃ¶ln,"Feb 12, 1998",€9.00m
+Timo Hübers,Centre-Back,1.FC KÃ¶ln,"Jul 20, 1996",€7.50m
+Luca Kilian ,Centre-Back,1.FC KÃ¶ln,"Sep 1, 1999",€2.50m
+Dominique Heintz,Centre-Back,1.FC KÃ¶ln,"Aug 15, 1993",€1.20m
+Elias Bakatukanda,Centre-Back,1.FC KÃ¶ln,"Apr 13, 2004",€250k
+Max Finkgräfe,Left-Back,1.FC KÃ¶ln,"Mar 27, 2004",€5.00m
+Leart Paçarada,Left-Back,1.FC KÃ¶ln,"Oct 8, 1994",€2.00m
+Rasmus Carstensen,Right-Back,1.FC KÃ¶ln,"Nov 10, 2000",€3.00m
+Benno Schmitz,Right-Back,1.FC KÃ¶ln,"Nov 17, 1994",€2.00m
+Eric Martel ,Defensive Midfield,1.FC KÃ¶ln,"Apr 29, 2002",€9.00m
+Dejan Ljubicic ,Defensive Midfield,1.FC KÃ¶ln,"Oct 8, 1997",€8.00m
+Jacob Christensen,Defensive Midfield,1.FC KÃ¶ln,"Jun 25, 2001",€2.00m
+Denis Huseinbasic,Central Midfield,1.FC KÃ¶ln,"Jul 3, 2001",€4.50m
+Florian Kainz  ,Attacking Midfield,1.FC KÃ¶ln,"Oct 24, 1992",€3.50m
+Faride Alidou,Left Winger,1.FC KÃ¶ln,"Jul 18, 2001",€2.50m
+Justin Diehl ,Left Winger,1.FC KÃ¶ln,"Nov 27, 2004",€2.50m
+Jan Thielmann,Right Winger,1.FC KÃ¶ln,"May 26, 2002",€6.50m
+Linton Maina,Right Winger,1.FC KÃ¶ln,"Jun 23, 1999",€5.00m
+Davie Selke ,Centre-Forward,1.FC KÃ¶ln,"Jan 20, 1995",€3.50m
+Luca Waldschmidt,Centre-Forward,1.FC KÃ¶ln,"May 19, 1996",€3.00m
+Steffen Tigges,Centre-Forward,1.FC KÃ¶ln,"Jul 31, 1998",€1.50m
+Mark Uth,Centre-Forward,1.FC KÃ¶ln,"Aug 24, 1991",€1.00m
+Damion Downs,Centre-Forward,1.FC KÃ¶ln,"Jul 6, 2004",€1.00m
+Florian Dietz ,Centre-Forward,1.FC KÃ¶ln,"Aug 3, 1998",€800k
+Sargis Adamyan,Centre-Forward,1.FC KÃ¶ln,"May 23, 1993",€700k
+Manuel Riemann,Goalkeeper,VfL Bochum,"Sep 9, 1988",€800k
+Niclas Thiede ,Goalkeeper,VfL Bochum,"Apr 14, 1999",€350k
+Andreas Luthe,Goalkeeper,VfL Bochum,"Mar 10, 1987",€300k
+Michael Esser ,Goalkeeper,VfL Bochum,"Nov 22, 1987",€300k
+Erhan Masovic,Centre-Back,VfL Bochum,"Nov 22, 1998",€6.00m
+Bernardo,Centre-Back,VfL Bochum,"May 14, 1995",€5.50m
+Keven Schlotterbeck,Centre-Back,VfL Bochum,"Apr 28, 1997",€5.00m
+Tim Oermann,Centre-Back,VfL Bochum,"Oct 6, 2003",€4.00m
+Ivan Ordets,Centre-Back,VfL Bochum,"Jul 8, 1992",€3.00m
+Noah Loosli,Centre-Back,VfL Bochum,"Jan 23, 1997",€800k
+Mohammed Tolba ,Centre-Back,VfL Bochum,"Jul 19, 2004",€200k
+Maximilian Wittek,Left-Back,VfL Bochum,"Aug 21, 1995",€2.00m
+Danilo Soares,Left-Back,VfL Bochum,"Oct 29, 1991",€1.00m
+Moritz Römling,Left-Back,VfL Bochum,"Apr 30, 2001",€150k
+Felix Passlack,Right-Back,VfL Bochum,"May 29, 1998",€1.50m
+Cristian Gamboa,Right-Back,VfL Bochum,"Oct 24, 1989",€600k
+Agon Elezi,Defensive Midfield,VfL Bochum,"Mar 1, 2001",€800k
+Anthony Losilla ,Defensive Midfield,VfL Bochum,"Mar 10, 1986",€500k
+Patrick Osterhage ,Central Midfield,VfL Bochum,"Feb 1, 2000",€7.00m
+Matus Bero,Central Midfield,VfL Bochum,"Sep 6, 1995",€3.50m
+Kevin Stöger,Attacking Midfield,VfL Bochum,"Aug 27, 1993",€4.00m
+Philipp Förster,Attacking Midfield,VfL Bochum,"Feb 4, 1995",€1.80m
+Lukas Daschner,Attacking Midfield,VfL Bochum,"Oct 1, 1998",€1.50m
+Moritz-Broni Kwarteng ,Attacking Midfield,VfL Bochum,"Apr 28, 1998",€1.50m
+Christopher Antwi-Adjei ,Left Winger,VfL Bochum,"Feb 7, 1994",€1.50m
+Takuma Asano,Right Winger,VfL Bochum,"Nov 10, 1994",€4.00m
+Moritz Broschinski,Centre-Forward,VfL Bochum,"Sep 23, 2000",€2.00m
+Philipp Hofmann,Centre-Forward,VfL Bochum,"Mar 30, 1993",€1.80m
+Gonçalo Paciência,Centre-Forward,VfL Bochum,"Aug 1, 1994",€1.70m
+Kevin Müller,Goalkeeper,1.FC Heidenheim 1846,"Mar 15, 1991",€1.20m
+Vitus Eicher,Goalkeeper,1.FC Heidenheim 1846,"Nov 5, 1990",€250k
+Paul Tschernuth,Goalkeeper,1.FC Heidenheim 1846,"Jan 20, 2002",€100k
+Frank Feller,Goalkeeper,1.FC Heidenheim 1846,"Jan 7, 2004",-
+Benedikt Gimber,Centre-Back,1.FC Heidenheim 1846,"Feb 19, 1997",€2.80m
+Patrick Mainka ,Centre-Back,1.FC Heidenheim 1846,"Nov 6, 1994",€2.50m
+Tim Siersleben,Centre-Back,1.FC Heidenheim 1846,"Mar 9, 2000",€2.00m
+Thomas Keller ,Centre-Back,1.FC Heidenheim 1846,"Aug 5, 1999",€350k
+Jonas Föhrenbach,Left-Back,1.FC Heidenheim 1846,"Jan 26, 1996",€2.00m
+Norman Theuerkauf,Left-Back,1.FC Heidenheim 1846,"Jan 24, 1987",€300k
+Seedy Jarju,Left-Back,1.FC Heidenheim 1846,"Oct 28, 2004",-
+Omar Traoré ,Right-Back,1.FC Heidenheim 1846,"Feb 4, 1998",€2.00m
+Marnon Busch,Right-Back,1.FC Heidenheim 1846,"Dec 8, 1994",€1.50m
+Lennard Maloney,Defensive Midfield,1.FC Heidenheim 1846,"Oct 8, 1999",€5.00m
+Luka Janes,Defensive Midfield,1.FC Heidenheim 1846,"Jan 19, 2004",€200k
+Jan Schöppner,Central Midfield,1.FC Heidenheim 1846,"Jun 12, 1999",€2.50m
+Kevin Sessa,Central Midfield,1.FC Heidenheim 1846,"Jul 6, 2000",€1.00m
+Adrian Beck,Attacking Midfield,1.FC Heidenheim 1846,"Jun 9, 1997",€1.50m
+Denis Thomalla,Attacking Midfield,1.FC Heidenheim 1846,"Aug 16, 1992",€750k
+Jan-Niklas Beste,Left Winger,1.FC Heidenheim 1846,"Jan 4, 1999",€15.00m
+Florian Pick,Left Winger,1.FC Heidenheim 1846,"Sep 8, 1995",€900k
+Eren Dinkçi,Right Winger,1.FC Heidenheim 1846,"Dec 13, 2001",€10.00m
+Nikola Dovedan,Second Striker,1.FC Heidenheim 1846,"Jul 6, 1994",€600k
+Tim Kleindienst,Centre-Forward,1.FC Heidenheim 1846,"Aug 31, 1995",€5.00m
+Marvin Pieringer,Centre-Forward,1.FC Heidenheim 1846,"Oct 4, 1999",€2.50m
+Stefan Schimmer,Centre-Forward,1.FC Heidenheim 1846,"Apr 28, 1994",€500k
+Christian Kühlwetter,Centre-Forward,1.FC Heidenheim 1846,"Apr 21, 1996",€500k
+Elidon Qenaj ,Centre-Forward,1.FC Heidenheim 1846,"May 22, 2003",€100k
+Marcel Schuhen,Goalkeeper,SV Darmstadt 98,"Jan 13, 1993",€1.20m
+Alexander Brunst,Goalkeeper,SV Darmstadt 98,"Jul 7, 1995",€400k
+Morten Behrens,Goalkeeper,SV Darmstadt 98,"Apr 1, 1997",€250k
+Max Wendt,Goalkeeper,SV Darmstadt 98,"Jun 13, 2005",-
+Christoph Klarer,Centre-Back,SV Darmstadt 98,"Jun 14, 2000",€3.00m
+Matej Maglica,Centre-Back,SV Darmstadt 98,"Sep 25, 1998",€2.00m
+Clemens Riedel,Centre-Back,SV Darmstadt 98,"Jul 19, 2003",€2.00m
+Christoph Zimmermann,Centre-Back,SV Darmstadt 98,"Jan 12, 1993",€1.00m
+Jannik Müller,Centre-Back,SV Darmstadt 98,"Jan 18, 1994",€800k
+Thomas Isherwood,Centre-Back,SV Darmstadt 98,"Jan 28, 1998",€700k
+Emir Karic,Left-Back,SV Darmstadt 98,"Jun 9, 1997",€1.00m
+Fabian Holland  ,Left-Back,SV Darmstadt 98,"Jul 11, 1990",€600k
+Matthias Bader,Right-Back,SV Darmstadt 98,"Jun 17, 1997",€2.20m
+Bartol Franjic,Defensive Midfield,SV Darmstadt 98,"Jan 14, 2000",€2.00m
+Andreas Müller,Defensive Midfield,SV Darmstadt 98,"Jul 20, 2000",€800k
+Klaus Gjasula,Defensive Midfield,SV Darmstadt 98,"Dec 14, 1989",€500k
+Fabian Nürnberger ,Central Midfield,SV Darmstadt 98,"Jul 28, 1999",€2.50m
+Fabian Schnellhardt,Central Midfield,SV Darmstadt 98,"Jan 12, 1994",€1.00m
+Tobias Kempe,Central Midfield,SV Darmstadt 98,"Jun 27, 1989",€500k
+Marvin Mehlem ,Attacking Midfield,SV Darmstadt 98,"Sep 11, 1997",€3.00m
+Julian Justvan,Attacking Midfield,SV Darmstadt 98,"Apr 2, 1998",€1.50m
+Gerrit Holtmann,Left Winger,SV Darmstadt 98,"Mar 25, 1995",€1.50m
+Mathias Honsak,Left Winger,SV Darmstadt 98,"Dec 20, 1996",€1.20m
+Tim Skarke,Right Winger,SV Darmstadt 98,"Sep 7, 1996",€3.00m
+Oscar Vilhelmsson,Centre-Forward,SV Darmstadt 98,"Oct 2, 2003",€2.00m
+Fraser Hornby ,Centre-Forward,SV Darmstadt 98,"Sep 13, 1999",€1.80m
+Braydon Manu,Centre-Forward,SV Darmstadt 98,"Mar 28, 1997",€1.50m
+Luca Pfeiffer,Centre-Forward,SV Darmstadt 98,"Aug 20, 1996",€1.20m
+Sebastian Polter,Centre-Forward,SV Darmstadt 98,"Apr 1, 1991",€700k
+Aaron Seydel,Centre-Forward,SV Darmstadt 98,"Feb 7, 1996",€500k
+Fabio Torsiello,Centre-Forward,SV Darmstadt 98,"Feb 2, 2005",€500k
+Koen Casteels ,Goalkeeper,VfL Wolfsburg,"Jun 25, 1992",€8.00m
+Pavao Pervan,Goalkeeper,VfL Wolfsburg,"Nov 13, 1987",€400k
+Niklas Klinger,Goalkeeper,VfL Wolfsburg,"Oct 13, 1995",€100k
+Maxence Lacroix,Centre-Back,VfL Wolfsburg,"Apr 6, 2000",€20.00m
+Moritz Jenz,Centre-Back,VfL Wolfsburg,"Apr 30, 1999",€7.50m
+Sebastiaan Bornauw,Centre-Back,VfL Wolfsburg,"Mar 22, 1999",€7.00m
+Cédric Zesiger,Centre-Back,VfL Wolfsburg,"Jun 24, 1998",€6.00m
+Rogério ,Left-Back,VfL Wolfsburg,"Jan 13, 1998",€7.50m
+Joakim Maehle,Right-Back,VfL Wolfsburg,"May 20, 1997",€14.00m
+Ridle Baku,Right-Back,VfL Wolfsburg,"Apr 8, 1998",€8.00m
+Kilian Fischer,Right-Back,VfL Wolfsburg,"Oct 12, 2000",€1.50m
+Kofi Amoako,Defensive Midfield,VfL Wolfsburg,"May 6, 2005",-
+Mattias Svanberg,Central Midfield,VfL Wolfsburg,"Jan 5, 1999",€15.00m
+Aster Vranckx,Central Midfield,VfL Wolfsburg,"Oct 4, 2002",€12.00m
+Maximilian Arnold ,Central Midfield,VfL Wolfsburg,"May 27, 1994",€10.00m
+Yannick Gerhardt,Central Midfield,VfL Wolfsburg,"Mar 13, 1994",€5.00m
+Kevin Paredes,Left Midfield,VfL Wolfsburg,"May 7, 2003",€5.00m
+Lovro Majer,Attacking Midfield,VfL Wolfsburg,"Jan 17, 1998",€25.00m
+Jakub Kaminski,Left Winger,VfL Wolfsburg,"Jun 5, 2002",€7.00m
+Ulysses Llanez ,Left Winger,VfL Wolfsburg,"Apr 2, 2001",€200k
+Patrick Wimmer,Right Winger,VfL Wolfsburg,"May 30, 2001",€18.00m
+Vaclav Cerny,Right Winger,VfL Wolfsburg,"Oct 17, 1997",€8.00m
+Jonas Wind,Centre-Forward,VfL Wolfsburg,"Feb 7, 1999",€20.00m
+Lukas Nmecha ,Centre-Forward,VfL Wolfsburg,"Dec 14, 1998",€7.00m
+Tiago Tomás,Centre-Forward,VfL Wolfsburg,"Jun 16, 2002",€6.00m
+Amin Sarr,Centre-Forward,VfL Wolfsburg,"Mar 11, 2001",€4.00m
+Kevin Behrens,Centre-Forward,VfL Wolfsburg,"Feb 3, 1991",€3.00m
+Dzenan Pejcinovic,Centre-Forward,VfL Wolfsburg,"Feb 15, 2005",€1.00m
+Noah Atubolu,Goalkeeper,SC Freiburg,"May 25, 2002",€8.00m
+Florian Müller,Goalkeeper,SC Freiburg,"Nov 13, 1997",€1.20m
+Benjamin Uphoff,Goalkeeper,SC Freiburg,"Aug 8, 1993",€500k
+Philipp Lienhart ,Centre-Back,SC Freiburg,"Jul 11, 1996",€20.00m
+Matthias Ginter ,Centre-Back,SC Freiburg,"Jan 19, 1994",€15.00m
+Attila Szalai,Centre-Back,SC Freiburg,"Jan 20, 1998",€6.00m
+Kenneth Schmidt ,Centre-Back,SC Freiburg,"Jun 3, 2002",€3.00m
+Manuel Gulde,Centre-Back,SC Freiburg,"Feb 12, 1991",€1.50m
+Max Rosenfelder,Centre-Back,SC Freiburg,"Feb 10, 2003",€500k
+Christian Günter ,Left-Back,SC Freiburg,"Feb 28, 1993",€6.00m
+Jordy Makengo,Left-Back,SC Freiburg,"Aug 3, 2001",€3.50m
+Kiliann Sildillia,Right-Back,SC Freiburg,"May 16, 2002",€18.00m
+Lukas Kübler ,Right-Back,SC Freiburg,"Aug 30, 1992",€2.50m
+Yannik Keitel,Defensive Midfield,SC Freiburg,"Feb 15, 2000",€4.00m
+Nicolas Höfler,Defensive Midfield,SC Freiburg,"Mar 9, 1990",€2.00m
+Maximilian Eggestein,Central Midfield,SC Freiburg,"Dec 8, 1996",€10.00m
+Merlin Röhl ,Central Midfield,SC Freiburg,"Jul 5, 2002",€10.00m
+Daniel-Kofi Kyereh ,Attacking Midfield,SC Freiburg,"Mar 8, 1996",€5.00m
+Vincenzo Grifo,Left Winger,SC Freiburg,"Apr 7, 1993",€12.00m
+Noah Weißhaupt,Left Winger,SC Freiburg,"Sep 20, 2001",€7.00m
+Florent Muslija,Left Winger,SC Freiburg,"Jul 6, 1998",€2.50m
+Roland Sallai,Right Winger,SC Freiburg,"May 22, 1997",€15.00m
+Ritsu Doan,Right Winger,SC Freiburg,"Jun 16, 1998",€15.00m
+Maximilian Philipp,Second Striker,SC Freiburg,"Mar 1, 1994",€2.00m
+Michael Gregoritsch,Centre-Forward,SC Freiburg,"Apr 18, 1994",€8.00m
+Lucas Höler,Centre-Forward,SC Freiburg,"Jul 10, 1994",€5.00m
+Junior Adamu,Centre-Forward,SC Freiburg,"Jun 6, 2001",€5.00m
+Maximilian Breunig,Centre-Forward,SC Freiburg,"Aug 14, 2000",€450k
+Jonas Omlin  ,Goalkeeper,Borussia MÃ¶nchengladbach,"Jan 10, 1994",€7.00m
+Moritz Nicolas,Goalkeeper,Borussia MÃ¶nchengladbach,"Oct 21, 1997",€2.00m
+Jan Olschowsky,Goalkeeper,Borussia MÃ¶nchengladbach,"Nov 18, 2001",€800k
+Tobias Sippel,Goalkeeper,Borussia MÃ¶nchengladbach,"Mar 22, 1988",€300k
+Maximilian Brüll ,Goalkeeper,Borussia MÃ¶nchengladbach,"Aug 26, 2002",€75k
+Ko Itakura,Centre-Back,Borussia MÃ¶nchengladbach,"Jan 27, 1997",€15.00m
+Maximilian Wöber ,Centre-Back,Borussia MÃ¶nchengladbach,"Feb 4, 1998",€14.00m
+Nico Elvedi,Centre-Back,Borussia MÃ¶nchengladbach,"Sep 30, 1996",€10.00m
+Marvin Friedrich,Centre-Back,Borussia MÃ¶nchengladbach,"Dec 13, 1995",€3.50m
+Fabio Chiarodia,Centre-Back,Borussia MÃ¶nchengladbach,"Jun 5, 2005",€2.00m
+Tony Jantschke ,Centre-Back,Borussia MÃ¶nchengladbach,"Apr 7, 1990",€400k
+Mamadou Doucouré ,Centre-Back,Borussia MÃ¶nchengladbach,"May 21, 1998",€100k
+Luca Netz,Left-Back,Borussia MÃ¶nchengladbach,"May 15, 2003",€10.00m
+Lukas Ullrich,Left-Back,Borussia MÃ¶nchengladbach,"Mar 16, 2004",€750k
+Joe Scally,Right-Back,Borussia MÃ¶nchengladbach,"Dec 31, 2002",€12.00m
+Stefan Lainer,Right-Back,Borussia MÃ¶nchengladbach,"Aug 27, 1992",€3.00m
+Simon Walde ,Right-Back,Borussia MÃ¶nchengladbach,"Jan 4, 2005",€500k
+Julian Weigl ,Defensive Midfield,Borussia MÃ¶nchengladbach,"Sep 8, 1995",€10.00m
+Christoph Kramer ,Defensive Midfield,Borussia MÃ¶nchengladbach,"Feb 19, 1991",€2.00m
+Manu Koné ,Central Midfield,Borussia MÃ¶nchengladbach,"May 17, 2001",€25.00m
+Rocco Reitz,Central Midfield,Borussia MÃ¶nchengladbach,"May 29, 2002",€10.00m
+Florian Neuhaus,Central Midfield,Borussia MÃ¶nchengladbach,"Mar 16, 1997",€9.00m
+Robin Hack,Left Winger,Borussia MÃ¶nchengladbach,"Aug 27, 1998",€4.50m
+Franck Honorat ,Right Winger,Borussia MÃ¶nchengladbach,"Aug 11, 1996",€12.00m
+Nathan Ngoumou,Right Winger,Borussia MÃ¶nchengladbach,"Mar 14, 2000",€5.00m
+Patrick Herrmann,Right Winger,Borussia MÃ¶nchengladbach,"Feb 12, 1991",€1.00m
+Tomas Cvancara,Centre-Forward,Borussia MÃ¶nchengladbach,"Aug 13, 2000",€10.00m
+Alassane Plea,Centre-Forward,Borussia MÃ¶nchengladbach,"Mar 10, 1993",€8.00m
+Jordan ,Centre-Forward,Borussia MÃ¶nchengladbach,"Apr 26, 1996",€6.00m
+Grant-Leon Ranos ,Centre-Forward,Borussia MÃ¶nchengladbach,"Jul 20, 2003",€1.00m
+Shio Fukuda,Centre-Forward,Borussia MÃ¶nchengladbach,"Apr 8, 2004",€300k
+Frederik Rönnow,Goalkeeper,1.FC Union Berlin,"Aug 4, 1992",€5.50m
+Alexander Schwolow,Goalkeeper,1.FC Union Berlin,"Jun 2, 1992",€900k
+Jakob Busk,Goalkeeper,1.FC Union Berlin,"Sep 12, 1993",€250k
+Danilho Doekhi,Centre-Back,1.FC Union Berlin,"Jun 30, 1998",€17.00m
+Diogo Leite,Centre-Back,1.FC Union Berlin,"Jan 23, 1999",€15.00m
+Robin Knoche,Centre-Back,1.FC Union Berlin,"May 22, 1992",€4.00m
+Kevin Vogt,Centre-Back,1.FC Union Berlin,"Sep 23, 1991",€2.50m
+Paul Jaeckel,Centre-Back,1.FC Union Berlin,"Jul 22, 1998",€2.50m
+Jérôme Roussillon,Left-Back,1.FC Union Berlin,"Jan 6, 1993",€2.50m
+Josip Juranovic,Right-Back,1.FC Union Berlin,"Aug 16, 1995",€10.00m
+Christopher Trimmel ,Right-Back,1.FC Union Berlin,"Feb 24, 1987",€800k
+Rani Khedira,Defensive Midfield,1.FC Union Berlin,"Jan 27, 1994",€8.00m
+Alex Král,Defensive Midfield,1.FC Union Berlin,"May 19, 1998",€7.50m
+Lucas Tousart,Defensive Midfield,1.FC Union Berlin,"Apr 29, 1997",€7.00m
+Noah Engelbreth,Defensive Midfield,1.FC Union Berlin,"Jun 12, 2005",-
+Aïssa Laïdouni,Central Midfield,1.FC Union Berlin,"Dec 13, 1996",€8.00m
+András Schäfer,Central Midfield,1.FC Union Berlin,"Apr 13, 1999",€5.00m
+Janik Haberer,Central Midfield,1.FC Union Berlin,"Apr 2, 1994",€4.00m
+Robin Gosens,Left Midfield,1.FC Union Berlin,"Jul 5, 1994",€12.00m
+Brenden Aaronson,Attacking Midfield,1.FC Union Berlin,"Oct 22, 2000",€14.00m
+Kevin Volland,Centre-Forward,1.FC Union Berlin,"Jul 30, 1992",€5.00m
+Yorbe Vertessen,Centre-Forward,1.FC Union Berlin,"Jan 8, 2001",€4.00m
+Benedict Hollerbach,Centre-Forward,1.FC Union Berlin,"May 17, 2001",€3.50m
+Chris Bedia,Centre-Forward,1.FC Union Berlin,"Mar 5, 1996",€3.00m
+Mikkel Kaufmann,Centre-Forward,1.FC Union Berlin,"Jan 3, 2001",€2.70m

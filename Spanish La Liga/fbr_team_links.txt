@@ -1,0 +1,20 @@
+Real Madrid,https://fbref.com/en/squads/53a2f082/Real-Madrid-Stats
+Barcelona,https://fbref.com/en/squads/206d90db/Barcelona-Stats
+Girona,https://fbref.com/en/squads/9024a00a/Girona-Stats
+Atlético Madrid,https://fbref.com/en/squads/db3b9613/Atletico-Madrid-Stats
+Athletic Club,https://fbref.com/en/squads/2b390eca/Athletic-Club-Stats
+Real Sociedad,https://fbref.com/en/squads/e31d1cd9/Real-Sociedad-Stats
+Betis,https://fbref.com/en/squads/fc536746/Real-Betis-Stats
+Valencia,https://fbref.com/en/squads/dcc91a7b/Valencia-Stats
+Villarreal,https://fbref.com/en/squads/2a8183b3/Villarreal-Stats
+Getafe,https://fbref.com/en/squads/7848bd64/Getafe-Stats
+Osasuna,https://fbref.com/en/squads/03c57e2b/Osasuna-Stats
+Sevilla,https://fbref.com/en/squads/ad2be733/Sevilla-Stats
+Las Palmas,https://fbref.com/en/squads/0049d422/Las-Palmas-Stats
+Alavés,https://fbref.com/en/squads/8d6fd021/Alaves-Stats
+Rayo Vallecano,https://fbref.com/en/squads/98e8af82/Rayo-Vallecano-Stats
+Mallorca,https://fbref.com/en/squads/2aa12281/Mallorca-Stats
+Celta Vigo,https://fbref.com/en/squads/f25da7fb/Celta-Vigo-Stats
+Cádiz,https://fbref.com/en/squads/ee7c297c/Cadiz-Stats
+Granada,https://fbref.com/en/squads/a0435291/Granada-Stats
+Almería,https://fbref.com/en/squads/78ecf4bb/Almeria-Stats

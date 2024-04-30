@@ -1,0 +1,5 @@
+English Premier League,https://www.transfermarkt.com/premier-league/startseite/wettbewerb/GB1,20
+Spanish La Liga,https://www.transfermarkt.com/laliga/startseite/wettbewerb/ES1,20
+French Ligue 1,https://www.transfermarkt.com/ligue-1/startseite/wettbewerb/FR1,18
+German Bundesliga,https://www.transfermarkt.com/bundesliga/startseite/wettbewerb/L1,18
+Italian Serie A,https://www.transfermarkt.com/serie-a/startseite/wettbewerb/IT1,20

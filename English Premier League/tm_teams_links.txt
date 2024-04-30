@@ -1,0 +1,20 @@
+Manchester City,https://www.transfermarkt.com/manchester-city/startseite/verein/281/saison_id/2023
+Arsenal FC,https://www.transfermarkt.com/fc-arsenal/startseite/verein/11/saison_id/2023
+Chelsea FC,https://www.transfermarkt.com/fc-chelsea/startseite/verein/631/saison_id/2023
+Liverpool FC,https://www.transfermarkt.com/fc-liverpool/startseite/verein/31/saison_id/2023
+Tottenham Hotspur,https://www.transfermarkt.com/tottenham-hotspur/startseite/verein/148/saison_id/2023
+Manchester United,https://www.transfermarkt.com/manchester-united/startseite/verein/985/saison_id/2023
+Aston Villa,https://www.transfermarkt.com/aston-villa/startseite/verein/405/saison_id/2023
+Newcastle United,https://www.transfermarkt.com/newcastle-united/startseite/verein/762/saison_id/2023
+Brighton & Hove Albion,https://www.transfermarkt.com/brighton-amp-hove-albion/startseite/verein/1237/saison_id/2023
+West Ham United,https://www.transfermarkt.com/west-ham-united/startseite/verein/379/saison_id/2023
+Brentford FC,https://www.transfermarkt.com/fc-brentford/startseite/verein/1148/saison_id/2023
+Crystal Palace,https://www.transfermarkt.com/crystal-palace/startseite/verein/873/saison_id/2023
+Nottingham Forest,https://www.transfermarkt.com/nottingham-forest/startseite/verein/703/saison_id/2023
+AFC Bournemouth,https://www.transfermarkt.com/afc-bournemouth/startseite/verein/989/saison_id/2023
+Everton FC,https://www.transfermarkt.com/fc-everton/startseite/verein/29/saison_id/2023
+Wolverhampton Wanderers,https://www.transfermarkt.com/wolverhampton-wanderers/startseite/verein/543/saison_id/2023
+Fulham FC,https://www.transfermarkt.com/fc-fulham/startseite/verein/931/saison_id/2023
+Burnley FC,https://www.transfermarkt.com/fc-burnley/startseite/verein/1132/saison_id/2023
+Sheffield United,https://www.transfermarkt.com/sheffield-united/startseite/verein/350/saison_id/2023
+Luton Town,https://www.transfermarkt.com/luton-town/startseite/verein/1031/saison_id/2023

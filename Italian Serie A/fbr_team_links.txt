@@ -1,0 +1,20 @@
+Inter,https://fbref.com/en/squads/d609edc0/Internazionale-Stats
+Milan,https://fbref.com/en/squads/dc56fe14/Milan-Stats
+Juventus,https://fbref.com/en/squads/e0652b02/Juventus-Stats
+Bologna,https://fbref.com/en/squads/1d8099f8/Bologna-Stats
+Roma,https://fbref.com/en/squads/cf74a709/Roma-Stats
+Atalanta,https://fbref.com/en/squads/922493f3/Atalanta-Stats
+Lazio,https://fbref.com/en/squads/7213da33/Lazio-Stats
+Napoli,https://fbref.com/en/squads/d48ad4ff/Napoli-Stats
+Fiorentina,https://fbref.com/en/squads/421387cf/Fiorentina-Stats
+Torino,https://fbref.com/en/squads/105360fe/Torino-Stats
+Monza,https://fbref.com/en/squads/21680aa4/Monza-Stats
+Genoa,https://fbref.com/en/squads/658bf2de/Genoa-Stats
+Lecce,https://fbref.com/en/squads/ffcbe334/Lecce-Stats
+Cagliari,https://fbref.com/en/squads/c4260e09/Cagliari-Stats
+Hellas Verona,https://fbref.com/en/squads/0e72edf2/Hellas-Verona-Stats
+Empoli,https://fbref.com/en/squads/a3d88bd8/Empoli-Stats
+Udinese,https://fbref.com/en/squads/04eea015/Udinese-Stats
+Frosinone,https://fbref.com/en/squads/6a7ad59d/Frosinone-Stats
+Sassuolo,https://fbref.com/en/squads/e2befd26/Sassuolo-Stats
+Salernitana,https://fbref.com/en/squads/c5577084/Salernitana-Stats

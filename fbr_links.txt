@@ -1,0 +1,5 @@
+English Premier League,https://fbref.com/en/comps/9/Premier-League-Stats
+Spanish La Liga,https://fbref.com/en/comps/12/La-Liga-Stats
+French Ligue 1,https://fbref.com/en/comps/13/Ligue-1-Stats
+German Bundesliga,https://fbref.com/en/comps/20/Bundesliga-Stats
+Italian Serie A,https://fbref.com/en/comps/11/Serie-A-Stats

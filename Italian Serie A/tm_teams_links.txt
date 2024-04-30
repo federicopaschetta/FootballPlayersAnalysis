@@ -1,0 +1,20 @@
+Inter Milan,https://www.transfermarkt.com/inter-mailand/startseite/verein/46/saison_id/2023
+AC Milan,https://www.transfermarkt.com/ac-mailand/startseite/verein/5/saison_id/2023
+SSC Napoli,https://www.transfermarkt.com/ssc-neapel/startseite/verein/6195/saison_id/2023
+Juventus FC,https://www.transfermarkt.com/juventus-turin/startseite/verein/506/saison_id/2023
+Atalanta BC,https://www.transfermarkt.com/atalanta-bergamo/startseite/verein/800/saison_id/2023
+AS Roma,https://www.transfermarkt.com/as-rom/startseite/verein/12/saison_id/2023
+Bologna FC 1909,https://www.transfermarkt.com/fc-bologna/startseite/verein/1025/saison_id/2023
+ACF Fiorentina,https://www.transfermarkt.com/ac-florenz/startseite/verein/430/saison_id/2023
+SS Lazio,https://www.transfermarkt.com/lazio-rom/startseite/verein/398/saison_id/2023
+Torino FC,https://www.transfermarkt.com/fc-turin/startseite/verein/416/saison_id/2023
+US Sassuolo,https://www.transfermarkt.com/us-sassuolo/startseite/verein/6574/saison_id/2023
+Genoa CFC,https://www.transfermarkt.com/genua-cfc/startseite/verein/252/saison_id/2023
+Udinese Calcio,https://www.transfermarkt.com/udinese-calcio/startseite/verein/410/saison_id/2023
+AC Monza,https://www.transfermarkt.com/ac-monza/startseite/verein/2919/saison_id/2023
+Frosinone Calcio,https://www.transfermarkt.com/frosinone-calcio/startseite/verein/8970/saison_id/2023
+US Lecce,https://www.transfermarkt.com/us-lecce/startseite/verein/1005/saison_id/2023
+US Salernitana 1919,https://www.transfermarkt.com/us-salernitana-1919/startseite/verein/380/saison_id/2023
+Cagliari Calcio,https://www.transfermarkt.com/cagliari-calcio/startseite/verein/1390/saison_id/2023
+FC Empoli,https://www.transfermarkt.com/fc-empoli/startseite/verein/749/saison_id/2023
+Hellas Verona,https://www.transfermarkt.com/hellas-verona/startseite/verein/276/saison_id/2023

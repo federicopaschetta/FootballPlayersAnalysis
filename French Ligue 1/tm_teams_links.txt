@@ -1,0 +1,18 @@
+Paris Saint-Germain,https://www.transfermarkt.com/fc-paris-saint-germain/startseite/verein/583/saison_id/2023
+AS Monaco,https://www.transfermarkt.com/as-monaco/startseite/verein/162/saison_id/2023
+Stade Rennais FC,https://www.transfermarkt.com/fc-stade-rennes/startseite/verein/273/saison_id/2023
+OGC Nice,https://www.transfermarkt.com/ogc-nizza/startseite/verein/417/saison_id/2023
+LOSC Lille,https://www.transfermarkt.com/losc-lille/startseite/verein/1082/saison_id/2023
+Olympique Lyon,https://www.transfermarkt.com/olympique-lyon/startseite/verein/1041/saison_id/2023
+Olympique Marseille,https://www.transfermarkt.com/olympique-marseille/startseite/verein/244/saison_id/2023
+RC Lens,https://www.transfermarkt.com/rc-lens/startseite/verein/826/saison_id/2023
+RC Strasbourg Alsace,https://www.transfermarkt.com/rc-strassburg-alsace/startseite/verein/667/saison_id/2023
+Stade Reims,https://www.transfermarkt.com/stade-reims/startseite/verein/1421/saison_id/2023
+FC Lorient,https://www.transfermarkt.com/fc-lorient/startseite/verein/1158/saison_id/2023
+FC Toulouse,https://www.transfermarkt.com/fc-toulouse/startseite/verein/415/saison_id/2023
+Stade Brestois 29,https://www.transfermarkt.com/stade-brest-29/startseite/verein/3911/saison_id/2023
+Montpellier HSC,https://www.transfermarkt.com/montpellier-hsc/startseite/verein/969/saison_id/2023
+FC Nantes,https://www.transfermarkt.com/fc-nantes/startseite/verein/995/saison_id/2023
+Le Havre AC,https://www.transfermarkt.com/ac-le-havre/startseite/verein/738/saison_id/2023
+Clermont Foot 63,https://www.transfermarkt.com/clermont-foot-63/startseite/verein/3524/saison_id/2023
+FC Metz,https://www.transfermarkt.com/fc-metz/startseite/verein/347/saison_id/2023

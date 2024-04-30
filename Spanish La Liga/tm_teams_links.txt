@@ -1,0 +1,20 @@
+Real Madrid,https://www.transfermarkt.com/real-madrid/startseite/verein/418/saison_id/2023
+FC Barcelona,https://www.transfermarkt.com/fc-barcelona/startseite/verein/131/saison_id/2023
+Real Sociedad,https://www.transfermarkt.com/real-sociedad-san-sebastian/startseite/verein/681/saison_id/2023
+Atlético de Madrid,https://www.transfermarkt.com/atletico-madrid/startseite/verein/13/saison_id/2023
+Athletic Bilbao,https://www.transfermarkt.com/athletic-bilbao/startseite/verein/621/saison_id/2023
+Girona FC,https://www.transfermarkt.com/fc-girona/startseite/verein/12321/saison_id/2023
+Valencia CF,https://www.transfermarkt.com/fc-valencia/startseite/verein/1049/saison_id/2023
+Villarreal CF,https://www.transfermarkt.com/fc-villarreal/startseite/verein/1050/saison_id/2023
+Sevilla FC,https://www.transfermarkt.com/fc-sevilla/startseite/verein/368/saison_id/2023
+Real Betis Balompié,https://www.transfermarkt.com/real-betis-sevilla/startseite/verein/150/saison_id/2023
+Celta de Vigo,https://www.transfermarkt.com/celta-vigo/startseite/verein/940/saison_id/2023
+CA Osasuna,https://www.transfermarkt.com/ca-osasuna/startseite/verein/331/saison_id/2023
+Deportivo Alavés,https://www.transfermarkt.com/deportivo-alaves/startseite/verein/1108/saison_id/2023
+UD Las Palmas,https://www.transfermarkt.com/ud-las-palmas/startseite/verein/472/saison_id/2023
+Getafe CF,https://www.transfermarkt.com/fc-getafe/startseite/verein/3709/saison_id/2023
+Granada CF,https://www.transfermarkt.com/fc-granada/startseite/verein/16795/saison_id/2023
+RCD Mallorca,https://www.transfermarkt.com/rcd-mallorca/startseite/verein/237/saison_id/2023
+UD Almería,https://www.transfermarkt.com/ud-almeria/startseite/verein/3302/saison_id/2023
+Rayo Vallecano,https://www.transfermarkt.com/rayo-vallecano/startseite/verein/367/saison_id/2023
+Cádiz CF,https://www.transfermarkt.com/fc-cadiz/startseite/verein/2687/saison_id/2023

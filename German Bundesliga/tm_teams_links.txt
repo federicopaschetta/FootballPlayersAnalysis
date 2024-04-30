@@ -1,0 +1,18 @@
+Bayern Munich,https://www.transfermarkt.com/fc-bayern-munchen/startseite/verein/27/saison_id/2023
+Bayer 04 Leverkusen,https://www.transfermarkt.com/bayer-04-leverkusen/startseite/verein/15/saison_id/2023
+RB Leipzig,https://www.transfermarkt.com/rasenballsport-leipzig/startseite/verein/23826/saison_id/2023
+Borussia Dortmund,https://www.transfermarkt.com/borussia-dortmund/startseite/verein/16/saison_id/2023
+VfB Stuttgart,https://www.transfermarkt.com/vfb-stuttgart/startseite/verein/79/saison_id/2023
+Eintracht Frankfurt,https://www.transfermarkt.com/eintracht-frankfurt/startseite/verein/24/saison_id/2023
+VfL Wolfsburg,https://www.transfermarkt.com/vfl-wolfsburg/startseite/verein/82/saison_id/2023
+SC Freiburg,https://www.transfermarkt.com/sc-freiburg/startseite/verein/60/saison_id/2023
+Borussia Mönchengladbach,https://www.transfermarkt.com/borussia-monchengladbach/startseite/verein/18/saison_id/2023
+1.FC Union Berlin,https://www.transfermarkt.com/1-fc-union-berlin/startseite/verein/89/saison_id/2023
+TSG 1899 Hoffenheim,https://www.transfermarkt.com/tsg-1899-hoffenheim/startseite/verein/533/saison_id/2023
+FC Augsburg,https://www.transfermarkt.com/fc-augsburg/startseite/verein/167/saison_id/2023
+1.FSV Mainz 05,https://www.transfermarkt.com/1-fsv-mainz-05/startseite/verein/39/saison_id/2023
+SV Werder Bremen,https://www.transfermarkt.com/sv-werder-bremen/startseite/verein/86/saison_id/2023
+1.FC Köln,https://www.transfermarkt.com/1-fc-koln/startseite/verein/3/saison_id/2023
+VfL Bochum,https://www.transfermarkt.com/vfl-bochum/startseite/verein/80/saison_id/2023
+1.FC Heidenheim 1846,https://www.transfermarkt.com/1-fc-heidenheim-1846/startseite/verein/2036/saison_id/2023
+SV Darmstadt 98,https://www.transfermarkt.com/sv-darmstadt-98/startseite/verein/105/saison_id/2023
