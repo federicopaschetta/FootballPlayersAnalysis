@@ -6,6 +6,7 @@ Gabriel Magalhães,https://fbref.com/en/players/67ac5bb8/Gabriel-Magalhaes
 David Raya,https://fbref.com/en/players/98ea5115/David-Raya
 Kai Havertz,https://fbref.com/en/players/fed7cb61/Kai-Havertz
 Gabriel Martinelli,https://fbref.com/en/players/48a5a5d6/Gabriel-Martinelli
+Martin Ødegaard,https://fbref.com/en/players/79300479/Martin-Odegaard
 Oleksandr Zinchenko,https://fbref.com/en/players/51cf8561/Oleksandr-Zinchenko
 Gabriel Jesus,https://fbref.com/en/players/b66315ae/Gabriel-Jesus
 Leandro Trossard,https://fbref.com/en/players/38ceb24a/Leandro-Trossard

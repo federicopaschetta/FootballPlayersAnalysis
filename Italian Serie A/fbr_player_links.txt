@@ -3,6 +3,7 @@ Yann Sommer,https://fbref.com/en/players/420c18a1/Yann-Sommer
 Nicolò Barella,https://fbref.com/en/players/6928979a/Nicolo-Barella
 Marcus Thuram,https://fbref.com/en/players/6f8cd6d0/Marcus-Thuram
 Hakan Çalhanoğlu,https://fbref.com/en/players/cd0fa27b/Hakan-Calhanoglu
+Lautaro Martinez,https://fbref.com/en/players/f7036e1c/Lautaro-Martinez
 Federico Dimarco,https://fbref.com/en/players/970b8574/Federico-Dimarco
 Alessandro Bastoni,https://fbref.com/en/players/75b86fb3/Alessandro-Bastoni
 Francesco Acerbi,https://fbref.com/en/players/b96b595c/Francesco-Acerbi
