@@ -5,6 +5,11 @@ Jude Bellingham,https://fbref.com/en/players/57d88cf9/Jude-Bellingham
 Toni Kroos,https://fbref.com/en/players/6ce1f46f/Toni-Kroos
 Aurélien Tchouaméni,https://fbref.com/en/players/4f255115/Aurelien-Tchouameni
 Andriy Lunin,https://fbref.com/en/players/3061e1ec/Andriy-Lunin
+Vinicius Junior,https://fbref.com/en/players/7111d552/Vinicius-Junior
+Dani Carvjal,https://fbref.com/en/players/4958bfb2/Dani-Carvajal
+Nacho Fernández,https://fbref.com/en/players/2946f9a1/Nacho
+Luka Modric,https://fbref.com/en/players/6025fab1/Luka-Modric
+David Alaba,https://fbref.com/en/players/05439de2/David-Alaba
 Ferland Mendy,https://fbref.com/en/players/3cefcaef/Ferland-Mendy
 Eduardo Camavinga,https://fbref.com/en/players/7b9c2d84/Eduardo-Camavinga
 Brahim Díaz,https://fbref.com/en/players/407feb71/Brahim-Diaz
@@ -22,6 +27,12 @@ João Cancelo,https://fbref.com/en/players/bd6351cd/Joao-Cancelo
 Andreas Christensen,https://fbref.com/en/players/1cb49278/Andreas-Christensen
 Marc-André ter Stegen,https://fbref.com/en/players/6f51e382/Marc-Andre-ter-Stegen
 João Félix,https://fbref.com/en/players/8aafd64f/Joao-Felix
+Ronald Araujo,https://fbref.com/en/players/2bef2bca/Ronald-Araujo
+Gavi,https://fbref.com/en/players/19cae58d/Gavi
+Frenkie De Jong,https://fbref.com/en/players/1bacc518/Frenkie-de-Jong
+Ferran Torres,https://fbref.com/en/players/9e1035f8/Ferran-Torres
+Fermín López,https://fbref.com/en/players/c1fe5f0b/Fermin-Lopez
+Alejandro Balde,https://fbref.com/en/players/5ccc9672/Alejandro-Balde
 Lamine Yamal,https://fbref.com/en/players/82ec26c1/Lamine-Yamal
 Raphinha,https://fbref.com/en/players/3423f250/Raphinha
 Pedri,https://fbref.com/en/players/0d9b2d31/Pedri
@@ -65,6 +76,12 @@ Nahuel Molina,https://fbref.com/en/players/23610943/Nahuel-Molina
 Pablo Barrios,https://fbref.com/en/players/45736cec/Pablo-Barrios
 Rodrigo Riquelme,https://fbref.com/en/players/65154df0/Rodrigo-Riquelme
 Saúl Ñíguez,https://fbref.com/en/players/c14bc029/Saul-Niguez
+Koke,https://fbref.com/en/players/55126f3b/Koke
+Stefan Savic,https://fbref.com/en/players/f6ac68c1/Stefan-Savic
+Rodrigo de Paul,https://fbref.com/en/players/162efffd/Rodrigo-De-Paul
+Thomas Lemar,https://fbref.com/en/players/4dbd0916/Thomas-Lemar
+Rodrigo Riquelme,https://fbref.com/en/players/65154df0/Rodrigo-Riquelme
+Memphis Depay,https://fbref.com/en/players/8f696594/Memphis
 César Azpilicueta,https://fbref.com/en/players/53cad200/Cesar-Azpilicueta
 José María Giménez,https://fbref.com/en/players/f0da930c/Jose-Maria-Gimenez
 Ángel Correa,https://fbref.com/en/players/01eb744d/Angel-Correa

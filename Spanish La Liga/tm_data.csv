@@ -3,9 +3,9 @@ Thibaut Courtois ,Goalkeeper,Real Madrid,"May 11, 1992",€30.00m
 Andriy Lunin,Goalkeeper,Real Madrid,"Feb 11, 1999",€16.00m
 Kepa Arrizabalaga,Goalkeeper,Real Madrid,"Oct 3, 1994",€12.00m
 Éder Militão,Centre-Back,Real Madrid,"Jan 18, 1998",€70.00m
-David Alaba ,Centre-Back,Real Madrid,"Jun 24, 1992",€25.00m
+David Alaba,Centre-Back,Real Madrid,"Jun 24, 1992",€25.00m
 Antonio Rüdiger,Centre-Back,Real Madrid,"Mar 3, 1993",€25.00m
-Nacho Fernández ,Centre-Back,Real Madrid,"Jan 18, 1990",€4.00m
+Nacho Fernández,Centre-Back,Real Madrid,"Jan 18, 1990",€4.00m
 Ferland Mendy,Left-Back,Real Madrid,"Jun 8, 1995",€20.00m
 Fran García,Left-Back,Real Madrid,"Aug 14, 1999",€15.00m
 Daniel Carvajal ,Right-Back,Real Madrid,"Jan 11, 1992",€12.00m
@@ -31,12 +31,12 @@ Jules Koundé,Centre-Back,FC Barcelona,"Nov 12, 1998",€50.00m
 Andreas Christensen,Centre-Back,FC Barcelona,"Apr 10, 1996",€40.00m
 Pau Cubarsí,Centre-Back,FC Barcelona,"Jan 22, 2007",€25.00m
 Iñigo Martínez,Centre-Back,FC Barcelona,"May 17, 1991",€6.00m
-Alejandro Balde ,Left-Back,FC Barcelona,"Oct 18, 2003",€40.00m
+Alejandro Balde,Left-Back,FC Barcelona,"Oct 18, 2003",€40.00m
 Marcos Alonso,Left-Back,FC Barcelona,"Dec 28, 1990",€3.00m
 João Cancelo,Right-Back,FC Barcelona,"May 27, 1994",€30.00m
 Héctor Fort,Right-Back,FC Barcelona,"Aug 2, 2006",€7.50m
 Oriol Romeu,Defensive Midfield,FC Barcelona,"Sep 24, 1991",€3.00m
-Gavi ,Central Midfield,FC Barcelona,"Aug 5, 2004",€90.00m
+Gavi,Central Midfield,FC Barcelona,"Aug 5, 2004",€90.00m
 Pedri,Central Midfield,FC Barcelona,"Nov 25, 2002",€80.00m
 Frenkie de Jong ,Central Midfield,FC Barcelona,"May 12, 1997",€70.00m
 İlkay Gündoğan,Central Midfield,FC Barcelona,"Oct 24, 1990",€16.00m
@@ -91,7 +91,7 @@ Rodrigo de Paul,Central Midfield,AtlÃ©tico de Madrid,"May 24, 1994",€30.00m
 Marcos Llorente,Central Midfield,AtlÃ©tico de Madrid,"Jan 30, 1995",€30.00m
 Arthur Vermeeren,Central Midfield,AtlÃ©tico de Madrid,"Feb 7, 2005",€30.00m
 Pablo Barrios,Central Midfield,AtlÃ©tico de Madrid,"Jun 15, 2003",€25.00m
-Koke ,Central Midfield,AtlÃ©tico de Madrid,"Jan 8, 1992",€12.00m
+Koke,Central Midfield,AtlÃ©tico de Madrid,"Jan 8, 1992",€12.00m
 Saúl Ñíguez,Central Midfield,AtlÃ©tico de Madrid,"Nov 21, 1994",€7.50m
 Thomas Lemar ,Attacking Midfield,AtlÃ©tico de Madrid,"Nov 12, 1995",€12.00m
 Samuel Lino,Left Winger,AtlÃ©tico de Madrid,"Dec 23, 1999",€25.00m
