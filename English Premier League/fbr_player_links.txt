@@ -29,6 +29,8 @@ Darwin Núñez,https://fbref.com/en/players/4d77b365/Darwin-Nunez
 Trent Alexander-Arnold,https://fbref.com/en/players/cd1acf9d/Trent-Alexander-Arnold
 Joe Gomez,https://fbref.com/en/players/7a11550b/Joe-Gomez
 Ibrahima Konaté,https://fbref.com/en/players/5ed9b537/Ibrahima-Konate
+Virgil van Dijk,https://fbref.com/en/players/e06683ca/Virgil-van-Dijk
+Joe Gomez,https://fbref.com/en/players/7a11550b/Joe-Gomez
 Wataru Endo,https://fbref.com/en/players/c149016b/Wataru-Endo
 Andrew Robertson,https://fbref.com/en/players/2e4f5f03/Andrew-Robertson
 Diogo Jota,https://fbref.com/en/players/178ae8f8/Diogo-Jota

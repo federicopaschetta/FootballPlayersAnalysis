@@ -46,6 +46,9 @@ Wojciech Szczęsny,https://fbref.com/en/players/01b8a2b2/Wojciech-Szczesny
 Manuel Locatelli,https://fbref.com/en/players/a8a874f1/Manuel-Locatelli
 Weston McKennie,https://fbref.com/en/players/01c3aff5/Weston-McKennie
 Federico Gatti,https://fbref.com/en/players/18dd3219/Federico-Gatti
+Bremer,https://fbref.com/en/players/5fd5ed86/Gleison-Bremer
+Danilo Luiz,https://fbref.com/en/players/94b2001f/Danilo
+Kenan Yıldız,https://fbref.com/en/players/d8cda243/Kenan-Yildiz
 Adrien Rabiot,https://fbref.com/en/players/8794e251/Adrien-Rabiot
 Andrea Cambiaso,https://fbref.com/en/players/247ed022/Andrea-Cambiaso
 Filip Kostić,https://fbref.com/en/players/b1cd37e6/Filip-Kostic
@@ -120,6 +123,7 @@ Giorgio Scalvini,https://fbref.com/en/players/1e9aa637/Giorgio-Scalvini
 Matteo Ruggeri,https://fbref.com/en/players/ae9898c5/Matteo-Ruggeri
 Marco Carnesecchi,https://fbref.com/en/players/8ec56e62/Marco-Carnesecchi
 Charles De Ketelaere,https://fbref.com/en/players/2ef7c612/Charles-De-Ketelaere
+Mario Pasalic,https://fbref.com/en/players/e599253a/Mario-Pasalic
 Davide Zappacosta,https://fbref.com/en/players/7fe90ccd/Davide-Zappacosta
 Ademola Lookman,https://fbref.com/en/players/7c104bb7/Ademola-Lookman
 Gianluca Scamacca,https://fbref.com/en/players/8790f988/Gianluca-Scamacca

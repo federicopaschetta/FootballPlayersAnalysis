@@ -4,6 +4,19 @@ Piero Hincapié,https://fbref.com/en/players/0c7a48f8/Piero-Hincapie
 Matej Kovar,https://fbref.com/en/players/bc67a0e1/Matej-Kovar
 Nadiem Amiri,https://fbref.com/en/players/555d5edd/Nadiem-Amiri
 Niklas Lomb,https://fbref.com/en/players/9321b8ed/Niklas-Lomb
+Odilon Kossounou,https://fbref.com/en/players/1f3afdcb/Odilon-Kossonou
+Josip Stanisic,https://fbref.com/en/players/7ed08d5c/Josip-Stanisic
+Alejandro Grimaldo,https://fbref.com/en/players/b1f4086c/Alex-Grimaldo
+Granit Xhaka,https://fbref.com/en/players/e61b8aee/Granit-Xhaka
+Robert Andrich,https://fbref.com/en/players/e0b113a7/Robert-Andrich
+Exequiel Palacios,https://fbref.com/en/players/e82adcab/Exequiel-Palacios
+Jeremie Frimpong,https://fbref.com/en/players/74f2e748/Jeremie-Frimpong
+Florian Wirtz,https://fbref.com/en/players/e7fcf289/Florian-Wirtz
+Jonas Hofmann,https://fbref.com/en/players/2903a856/Jonas-Hofmann
+Amine Adli,https://fbref.com/en/players/dcfb17f4/Amine-Adli
+Nathan Tella,https://fbref.com/en/players/f1e94cd6/Nathan-Tella
+Victor Boniface,https://fbref.com/en/players/b146275b/Victor-Boniface
+Patrik Schick,https://fbref.com/en/players/5d4f7d61/Patrik-Schick
 Harry Kane,https://fbref.com/en/players/21a66f6a/Harry-Kane
 Joshua Kimmich,https://fbref.com/en/players/49296448/Joshua-Kimmich
 Leon Goretzka,https://fbref.com/en/players/cc86b9a3/Leon-Goretzka
@@ -13,6 +26,10 @@ Dayot Upamecano,https://fbref.com/en/players/d248cd8f/Dayot-Upamecano
 Thomas Müller,https://fbref.com/en/players/3c6089ab/Thomas-Muller
 Konrad Laimer,https://fbref.com/en/players/c1b7847c/Konrad-Laimer
 Matthijs de Ligt,https://fbref.com/en/players/d6e53a3a/Matthijs-de-Ligt
+Min-jae Kim,https://fbref.com/en/players/e0f8151c/Kim-Min-jae
+Leroy Sané,https://fbref.com/en/players/2b114be3/Leroy-Sane
+Serge Gnabry,https://fbref.com/en/players/88e357ef/Serge-Gnabry
+Kingsley Coman,https://fbref.com/en/players/042e8a49/Kingsley-Coman
 Noussair Mazraoui,https://fbref.com/en/players/b74277a0/Noussair-Mazraoui
 Raphaël Guerreiro,https://fbref.com/en/players/048a1cbc/Raphael-Guerreiro
 Sven Ulreich,https://fbref.com/en/players/7d3e7da6/Sven-Ulreich
