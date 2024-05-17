@@ -8,51 +8,23 @@ This project focuses on the analysis of football player data, including both rea
 
 The project is structured into several Jupyter notebooks, datasets, and supporting folders and files as follows:
 
-+---analysis.ipynb
-+---cleaning.ipynb
-+---fbr_links.txt
-+---goalkeepers_df.csv
-+---goalkeepers_fifa_df.csv
-+---male_players.csv
-+---players_df.csv
-+---players_fifa_df.csv
-+---README.md
-+---scraping.ipynb
-+---tm_links.txt
-+---English Premier League
-+       fbr_data.csv
-ª       fbr_player_links.txt
-ª       fbr_team_links.txt
-ª       tm_data.csv
-ª       tm_teams_links.txt
-ª       
-+---French Ligue 1
-ª       fbr_data.csv
-ª       fbr_player_links.txt
-ª       fbr_team_links.txt
-ª       tm_data.csv
-ª       tm_teams_links.txt
-ª       
-+---German Bundesliga
-ª       fbr_data.csv
-ª       fbr_player_links.txt
-ª       fbr_team_links.txt
-ª       tm_data.csv
-ª       tm_teams_links.txt
-ª       
-+---Italian Serie A
-ª       fbr_data.csv
-ª       fbr_player_links.txt
-ª       fbr_team_links.txt
-ª       tm_data.csv
-ª       tm_teams_links.txt
-ª       
-+---Spanish La Liga
-        fbr_data.csv
-        fbr_player_links.txt
-        fbr_team_links.txt
-        tm_data.csv
-        tm_teams_links.txt
+- analysis.ipynb
+- cleaning.ipynb
+- fbr_links.txt
+- goalkeepers_df.csv
+- goalkeepers_fifa_df.csv
+- male_players.csv
+- players_df.csv
+- players_fifa_df.csv
+- README.md
+- scraping.ipynb
+- tm_links.txt
+- English Premier League
+- French Ligue 1
+- German Bundesliga
+- Italian Serie A
+- Spanish La Liga
+
 
 ### Folders
 
