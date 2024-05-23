@@ -1,0 +1,42 @@
+Goalkeeper
+Line - This keeper has only one goal, keeping a clean sheet. He excels at shot stopping, eliminating threats from crosses and quickly recovers after blocking a shot. He rules the 6 yard box. His weaknesses can be ball skills, covering the defensive line and reading the game. When in possession, he plays a simple passing game, reducing his on-ball time to a minimum.
+Sweeper - This type of keeper functions as a sweeper behind the defensive line and therefore positions himself higher up the pitch. In the defensive phase he sweeps up through balls and excels in one on one situations.
+BallPlayer - This type of keeper has good on the ball skills and can provide his teammates with high accuracy passes, even reaching the wingers when pressure is intense. In the build-up he can be used to outnumber the opposing offensive line when his defence is put under pressure.
+
+Centre-Back
+Builder - This type of defenders are mosty used by the managers who prefer possession football over counter attacking football, these players have good passing technique and range and must be good in tight spaces as they are the back-bone of the teams build-up play which helps to dominate possession and create more chances. They are a plus point to dominate possession, but doing even a silly mistake can cost a lot. As they lies deep inside the box and if the defense make any wrong pass or loose the ball near by the box, that will create threat for the goalkeeper.
+ExtraFront - These are the type of defenders who loves to join the attack, apart from their basic role of defending these are the Center Backs who joins the attack to increase the number of man in a particular attack. They make runs up the field when needed, as defenders are superior in air, they joins attacks in the set-pieces to convert the attempt into a goal. Mostly in corners these center backs are positioned inside the opponents-box, they stay little bit longer up the field and chase back when needed.
+Destroyer - A Strong and tough defender who stops the opponent attacks through hard tackling and pressing. They are careless of their positioning and press the opponents very quickly while doing high pressing and harsh tackling. These center-backs are most prone of getting cards. Hence, mangers use them wisely.
+
+Left-Back
+Defensive - Tend to remain in a deeper position to focus on defending. They engage in a high number of defensive duels in their own half and play less crosses.
+Wing-Backs - Tend to get forward and contribute to the attack. They are progressive with the ball and play more crosses, while engaging in fewer defensive duels.
+
+Right-Back
+Defensive - Tend to remain in a deeper position to focus on defending. They engage in a high number of defensive duels in their own half and play less crosses.
+Wing-Backs - Tend to get forward and contribute to the attack. They are progressive with the ball and play more crosses, while engaging in fewer defensive duels.
+
+Midfielder
+Ball-Winning - Engage in a high number of defensive duels and try to recover possession for their team. They tend to play simple passes and hold a deeper position on the pitch.
+Box-to-Box - Heavily involved in play at both ends of the pitch. They engage in a high number of defensive duels and get forward in possession to receive the ball and take shots.
+Creative - Progress the ball from deep with a wide range of passing. They engage in some defensive duels but don’t usually get further up the pitch in possession.
+Playmakers - Focus on creating chances for other players, while taking fewer shots themselves. If they shoot it is usually from range rather than in the penalty area.
+
+Left Winger
+Inverted - Tend to run inside from wide positions while attacking. They take more shots relative to other wingers, but play fewer passes and crosses.
+Wide - Focus on creating chances for their team from wide on the pitch. They play more passes and crosses relative to other wingers, but take fewer shots.
+
+Right Winger
+Inverted - Tend to run inside from wide positions while attacking. They take more shots relative to other wingers, but play fewer passes and crosses.
+Wide - Focus on creating chances for their team from wide on the pitch. They play more passes and crosses relative to other wingers, but take fewer shots.
+
+Forward
+SecondStriker - Take a high number of shots themselves, rather than assisting other players. They like to get into the penalty area to create high quality chances.
+False9 - Drop deeper from the Forward position to build attacks and create chances for other players. They play more passes and take fewer shots relative to other Forwards.
+Finisher - Focus on receiving passes in the penalty area and scoring goals. They tend to shoot rather than create chances for other players.
+Target - Remain high up the pitch to receive passes from their team. They engage in a high number of aerial duels and take a high number of headed shots.
+
+
+https://www.scisports.com/staying-in-the-5-yard-or-thinking-outside-the-box/
+https://www.pixstory.com/story/the-different-playing-styles-of-center-backs-in-football-explained/129727
+https://blog.transferroom.com/transferrooms-playing-styles-explained
