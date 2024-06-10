@@ -20,7 +20,7 @@ Midfielder
 Ball-Winning - Engage in a high number of defensive duels and try to recover possession for their team. They tend to play simple passes and hold a deeper position on the pitch.
 Box-to-Box - Heavily involved in play at both ends of the pitch. They engage in a high number of defensive duels and get forward in possession to receive the ball and take shots.
 Creative - Progress the ball from deep with a wide range of passing. They engage in some defensive duels but don’t usually get further up the pitch in possession.
-Playmakers - Focus on creating chances for other players, while taking fewer shots themselves. If they shoot it is usually from range rather than in the penalty area.
+Playmaker - Focus on creating chances for other players, while taking fewer shots themselves. If they shoot it is usually from range rather than in the penalty area.
 
 Left Winger
 Inverted - Tend to run inside from wide positions while attacking. They take more shots relative to other wingers, but play fewer passes and crosses.
@@ -31,7 +31,6 @@ Inverted - Tend to run inside from wide positions while attacking. They take mor
 Wide - Focus on creating chances for their team from wide on the pitch. They play more passes and crosses relative to other wingers, but take fewer shots.
 
 Forward
-SecondStriker - Take a high number of shots themselves, rather than assisting other players. They like to get into the penalty area to create high quality chances.
 False9 - Drop deeper from the Forward position to build attacks and create chances for other players. They play more passes and take fewer shots relative to other Forwards.
 Finisher - Focus on receiving passes in the penalty area and scoring goals. They tend to shoot rather than create chances for other players.
 Target - Remain high up the pitch to receive passes from their team. They engage in a high number of aerial duels and take a high number of headed shots.
