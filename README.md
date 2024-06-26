@@ -52,10 +52,10 @@ Each folder contains the following datasets:
 - `scraping.ipynb`: This notebook contains the web scraping scripts used to collect football player data from various sources.
 - `cleaning.ipynb`: This notebook is dedicated to cleaning and preprocessing the raw data obtained from scraping.
 - `analysis.ipynb`: This notebook includes various analyses performed on the cleaned data, including comparative analysis, position-specific analysis, clustering, and similarity measurement.
+- `playstyles.ipynb`: This notebook uses clustering technique to investigate player similarities and play styles
+- `find_similars.ipynb`: This notebook creates a simple model to look for similar players to given ones
 
 
-
-## Getting Started
 
 ### Prerequisites
 
